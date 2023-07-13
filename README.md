@@ -4,18 +4,6 @@ Power BI analysis of job market data with insights on trends, demands, and oppor
 This repository contains a comprehensive analysis of job market data, focusing on the field of data science. We use Power BI to reveal key insights on job trends, skills correlations, top industries, and companies. The analysis is geared towards helping DAtaSearch Recruiters to identify optimal opportunities in the job market.
 
 
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-01.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-02.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-03.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-04.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-05.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-06.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-07.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-08.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-09.png)
-![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-10.png)
-
-
 ## Business Problem
 In the current competitive job market, it's challenging for recruiters to identify the most lucrative opportunities. Understanding the demand in different sectors, recognizing trending skills, and tracking the top industries for data science roles can provide recruiters an edge. This project aims to address this challenge by delivering a detailed analysis and clear visual representation of the job market trends.
 
@@ -34,5 +22,20 @@ Based on the analysis, a set of recommendations is provided to help recruiters n
 ## Dashboard Design
 We've created a Power BI dashboard, keeping the goal of identifying optimal opportunities in mind. This dashboard is tailored for DAtaSearch Recruiters, focusing on presenting data that's most useful for their work.
 
-Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Images
+
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-01.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-02.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-03.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-04.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-05.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-06.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-07.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-08.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-09.png)
+![Image Description](https://github.com/mbilalazeem/DataJobMarketAnalysis/blob/main/Pictures/DataJobMarketAnalysis-10.png)
+
+
